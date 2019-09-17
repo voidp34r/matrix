@@ -1,13 +1,13 @@
 {
   "name": "Matrix",
   "description": "Matrix produces a virtual office for remote teams. In this project, you can run a virtual office to simulate the physical environment",
-  "repository": "https://github.com/ResultadosDigitais/matrix",
+  "repository": "https://github.com/voidp34r/matrix",
   "keywords": ["online workspace", "virtual office", "remote teams"],
   "stack": "container",
   "env": {
     "GOOGLE_CREDENTIAL": {
       "description": "Google Application Credential",
-      "value": "xxxxxxx.apps.googleusercontent.com"
+      "value": "492750138272-jlqa79nn55jcfecrfu3f2puvkspith55.apps.googleusercontent.com"
     },
     "ROOMS_DATA": {
       "description": "List of avaliable rooms office. Read more in SETUP.md",
